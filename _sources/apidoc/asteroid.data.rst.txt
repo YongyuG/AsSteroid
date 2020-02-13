@@ -1,0 +1,16 @@
+asteroid.data package
+=====================
+
+.. automodule:: asteroid.data
+   :members:
+   :undoc-members:
+   :show-inheritance:
+   :private-members:
+
+Submodules
+----------
+
+.. toctree::
+
+   asteroid.data.wav
+   asteroid.data.wham_dataset
